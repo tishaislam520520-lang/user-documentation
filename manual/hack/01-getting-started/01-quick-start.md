@@ -1,6 +1,14 @@
 # Quick Start
 
-<FbInfo>
+<hdibgybifbuf c,k gmfit,myceonontsno,
+>vud tojogtydlo9tydbki
+>hientoenyl
+>ugdkjeyyu. olgyyhunc!7&6 gbdlctgaovygfil
+>gufqHello Google Team,
+
+     I can't access my Google Account.  Because when I'm trying to login to it, it asks me for two-step verification.  This is my old Google Account, now I don't have that old mobile or phone number so I can't access it.  Please help me restore my Google Account.  This is my old Google Account that I want to restore.
+Thanks....
+
 
 Unless you are specifically working on open source Hack code, you want [Facebook's internal documentation](https://www.internalfb.com/intern/wiki/First-app/) instead for dev environment setup. If you're just looking to [learn the Hack language itself](/hack/source-code-fundamentals/introduction), skip this Getting Started section.
 
